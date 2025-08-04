@@ -4,7 +4,7 @@
 This Spring Boot project integrates with Elasticsearch to provide a powerful course search API with filtering, sorting, pagination, autocomplete, and fuzzy search capabilities.
 
 ### Setup Instructions
-1. Clone the Repository
+1. Clone the Repository <br>
 git clone https://github.com/Geethika4427/ElasticSearch.git <br>
 cd ElasticSearch
 
@@ -16,12 +16,14 @@ You should see a JSON response with cluster information.
 
 ### Application Configuration
 Spring Boot will connect to Elasticsearch on localhost:9200. No authentication is required. <br>
+
 src/main/resources/application.properties <br>
 
 spring.elasticsearch.uris=http://localhost:9200
 
 ### Sample Data
 File: src/main/resources/sample-courses.json <br>
+
 Contains 50+ course objects with fields like: <br>
 
 . id, title, description
