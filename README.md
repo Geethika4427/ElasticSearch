@@ -10,6 +10,7 @@ cd ElasticSearch
 
 2. Start Elasticsearch <br>
 docker-compose up -d <br>
+
 Verify Elasticsearch is running:<br>
 http://localhost:9200 <br>
 You should see a JSON response with cluster information.
