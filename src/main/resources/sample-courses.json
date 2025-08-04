@@ -1,0 +1,137 @@
+[
+  {
+    "id": "course-001",
+    "title": "Math Basics",
+    "description": "Learn basic arithmetic operations.",
+    "category": "Math",
+    "type": "COURSE",
+    "gradeRange": "1st–3rd",
+    "minAge": 6,
+    "maxAge": 9,
+    "price": 49.99,
+    "nextSessionDate": "2025-09-01T10:00:00Z",
+    "suggest": {
+      "input": ["Math Basics"]
+    }
+  },
+  {
+    "id": "course-002",
+    "title": "Science Fun",
+    "description": "Explore the world of science.",
+    "category": "Science",
+    "type": "CLUB",
+    "gradeRange": "2nd–4th",
+    "minAge": 7,
+    "maxAge": 10,
+    "price": 59.99,
+    "nextSessionDate": "2025-09-05T11:30:00Z",
+    "suggest": {
+      "input": ["Science Fun"]
+    }
+  },
+  {
+    "id": "course-003",
+    "title": "Art Adventures",
+    "description": "Discover your creativity with painting and drawing.",
+    "category": "Art",
+    "type": "COURSE",
+    "gradeRange": "3rd–5th",
+    "minAge": 8,
+    "maxAge": 11,
+    "price": 39.99,
+    "nextSessionDate": "2025-08-20T09:00:00Z",
+    "suggest": {
+      "input": ["Art Adventures"]
+    }
+  },
+  {
+    "id": "course-004",
+    "title": "Coding for Kids",
+    "description": "Learn basic programming concepts using fun games.",
+    "category": "Technology",
+    "type": "COURSE",
+    "gradeRange": "4th–6th",
+    "minAge": 9,
+    "maxAge": 12,
+    "price": 69.99,
+    "nextSessionDate": "2025-08-25T14:00:00Z",
+    "suggest": {
+      "input": ["Coding for Kids"]
+    }
+  },
+  {
+    "id": "course-005",
+    "title": "Young Scientists",
+    "description": "Hands-on experiments and exciting discoveries.",
+    "category": "Science",
+    "type": "CLUB",
+    "gradeRange": "3rd–5th",
+    "minAge": 8,
+    "maxAge": 11,
+    "price": 55.00,
+    "nextSessionDate": "2025-09-10T13:30:00Z",
+    "suggest": {
+      "input": ["Young Scientists"]
+    }
+  },
+  {
+    "id": "course-006",
+    "title": "History Explorers",
+    "description": "Travel back in time to ancient civilizations.",
+    "category": "History",
+    "type": "COURSE",
+    "gradeRange": "5th–7th",
+    "minAge": 10,
+    "maxAge": 13,
+    "price": 44.99,
+    "nextSessionDate": "2025-09-15T10:30:00Z",
+    "suggest": {
+      "input": ["History Explorers"]
+    }
+  },
+  {
+    "id": "course-007",
+    "title": "Music Makers",
+    "description": "Play instruments and create your own tunes.",
+    "category": "Music",
+    "type": "CLUB",
+    "gradeRange": "2nd–4th",
+    "minAge": 7,
+    "maxAge": 10,
+    "price": 50.00,
+    "nextSessionDate": "2025-08-18T11:00:00Z",
+    "suggest": {
+      "input": ["Music Makers"]
+    }
+  },
+  {
+    "id": "course-008",
+    "title": "Matrix Algebra",
+    "description": "Learn basic to advanced matrix algebra.",
+    "category": "Math",
+    "type": "COURSE",
+    "gradeRange": "6th–10th",
+    "minAge": 11,
+    "maxAge": 15,
+    "price": 59.99,
+    "nextSessionDate": "2025-09-01T10:00:00Z",
+    "suggest": {
+      "input": ["Matrix Algebra"]
+    }
+  },
+  {
+    "id": "course-009",
+    "title": "Physics Crash Course",
+    "description": "Learn all the fundamentals of physics.",
+    "category": "Physics",
+    "type": "COURSE",
+    "gradeRange": "8th–10th",
+    "minAge": 13,
+    "maxAge": 15,
+    "price": 79.99,
+    "nextSessionDate": "2025-09-10T10:00:00Z",
+    "suggest": {
+      "input": ["Physics Crash Course"]
+    }
+  }
+]
